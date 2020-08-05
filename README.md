@@ -74,6 +74,6 @@ Professor: <a href="https://github.com/vitordesousa">Vitor de Sousa </a><br>
 
 <h2 id="versoes">Versões do README</h2>
 <p>
-<a href="">Português 🇧🇷</a> | 
-<a href="">English 🇺🇸</a>
+<a href="https://github.com/IzabellaLoyse/Pizzaria-Nave/blob/master/README.md">Português 🇧🇷</a> | 
+<a href="https://github.com/IzabellaLoyse/Pizzaria-Nave/blob/master/README-en.md">English 🇺🇸</a>
 </p>

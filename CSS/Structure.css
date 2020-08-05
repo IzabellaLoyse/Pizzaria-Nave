@@ -1,0 +1,19 @@
+/* COLORS  OF  SITE*/
+:root{
+  --color1:#efca11;
+  --color2:#aa0000;
+  --color3:#c9a805;
+  --color4:#910000;
+  --white:#ffffff;
+}
+
+*,
+*:hover{
+  transition: 0.3s all;
+}
+
+.all{
+  margin: 0;
+  padding: 0;
+}
+

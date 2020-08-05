@@ -1,0 +1,29 @@
+/* SMARTPHONE */
+@media(min-width:576px){
+
+  body.home header{
+    min-height:25.25rem;
+  }
+
+  .bg-yellow{
+    margin-top: 0;
+  }
+}
+
+/* SMARTPHONE/TABLET */
+@media (min-width: 768px) {
+
+
+}
+/* SMALL SCREENS */
+@media (min-width:992px) {
+	
+
+}
+
+/* LARGE SCREENS */
+@media (min-width: 1200px) {
+	body.home header{
+    min-height:31.25rem;
+  }
+}
