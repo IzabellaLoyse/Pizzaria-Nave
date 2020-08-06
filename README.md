@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../ASSETS/slides1.png" width="500">
+<img src="./ASSETS/slides1.png" width="500">
 </p>
 
 
@@ -38,7 +38,12 @@ Projeto de conclusão do curso de HTML/CSS da <a href="https://navedoconheciment
 
 <h2 id="aplicacao">🖇️ Demonstração da aplicação</h2>
 
-• Para visualizar e interagir com o Site, acesse 
+• Para visualizar e interagir com o Site, acesse <a href="https://pizzaria-nave.vercel.app/Index.html">Pizzaria da Nave </a>
+<p align="center">
+<img src="./ASSETS/Pizzaplace.png" width="500">
+<img src="./ASSETS/Cardapio.png" width=500>
+
+</p>
 
 <h2  id="requesitos">💻 Pré-requesitos</h2>
 <p>
