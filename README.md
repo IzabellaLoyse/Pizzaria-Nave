@@ -40,8 +40,8 @@ Projeto de conclusão do curso de HTML/CSS da <a href="https://navedoconheciment
 
 • Para visualizar e interagir com o Site, acesse <a href="https://pizzaria-nave.vercel.app/Index.html">Pizzaria da Nave </a>
 <p align="center">
-<img src="./ASSETS/Pizzaplace.png" width="500">
-<img src="./ASSETS/Cardapio.png" width=500>
+<img src="./ASSETS/Pizzaplace.png" width="760">
+<img src="./ASSETS/Cardapio.png" width=760>
 
 </p>
 

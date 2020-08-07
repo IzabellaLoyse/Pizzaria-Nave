@@ -26,11 +26,11 @@
 <link rel="stylesheet" href="./CSS/Responsive.css">
 
 
-	<title>A Pizzaria|Pizzaria da Nave</title>
+	<title>Peça Agora |Pizzaria da Nave</title>
 	
 </head>
 
-<body class="pizzaria">
+<body class="peca-agora">
 
 <header>
 	<!-- LOGO -->
@@ -82,7 +82,7 @@
 			</section>
 			<!-- MENU OF PAGE -->
 			<nav class="navbar navbar-expand-lg " id="menu">
-				<h1 class=" d-xl-none d-lg-none d-md-block d-sm-block">
+				<h1 class="d-xl-none d-lg-none d-md-block d-sm-block">
 					<a href="./Index.html" title="Ir para a página inicial">
 					<img src="./IMG/logo.png" alt="Logo da Pizzaria da Nave" class="logo">
 					</a>
@@ -99,7 +99,7 @@
 						<li class="nav-item ">
 							<a class="nav-link" href="./Index.html">Home </a>
 						</li>
-						<li class="nav-item active">
+						<li class="nav-item ">
 							<a class="nav-link" href="./Pizzaria.html">A Pizzaria</a>
 						</li>
 
@@ -120,35 +120,91 @@
 </div>
 </div >
 </header>
-<!-- ABOUT-->
+<!-- BANNERS -->
 <section  id="content">
 <div class="all content">
 	<div class="container  bg-white bg-shadow p-4">
 		<div class="row">
 			<div class="col-xl-12 col-lg-12 col-md-12-col-sm-12">
-				<h3 class="title">A Pizzaria</h3>
+				<h3 class="title">Faça o seu pedido</h3>
 
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-					Vivamus mattis pharetra nisi, vel pretium urna interdum in. 
-					Donec neque sapien, efficitur non molestie sit amet, mattis nec mi. 
-					Duis et blandit nulla, sit amet pretium ipsum. Proin vulputate 
-				</p>
+				<div class="row">
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+						<form>
+							<div class="form-group">
+							<label for="nome">Nome</label>
+							<input type="text" name="Nome" id="Nome" 
+							placeholder="Digite seu nome" class="form-control">
 
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-					Vivamus mattis pharetra nisi, vel pretium urna interdum in. 
-					Donec neque sapien, efficitur non molestie sit amet, mattis nec mi. 
-					Duis et blandit nulla, sit amet pretium ipsum. Proin vulputate 
-				</p>
+					</div>
+
+					<div class="form-group">
+						<label for="telefone">Telefone</label>
+						<input type="text" name="Telefone" id="Telefone" 
+						placeholder="Digite seu telefone" class="form-control">
+
+				</div>
 				
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-					Vivamus mattis pharetra nisi, vel pretium urna interdum in. 
-					Donec neque sapien, efficitur non molestie sit amet, mattis nec mi. 
-					Duis et blandit nulla, sit amet pretium ipsum. Proin vulputate 
-				</p>
+					<div class="form-group">
+						<label for="email">E-mail</label>
+						<input type="email" name="email" id="email" 
+						placeholder="Digite seu e-mail" class="form-control">
+				</div>
+	
+				<div class="form-group">
+					<label for="cep">CEP</label>
+					<input type="text" name="cep" id="cep" 
+					placeholder="Digite seu CEP" class="form-control">
+			</div>
+
+			<div class="form-group">
+				<label for="rua">Rua</label>
+				<input type="text" name="rua" id="rua" 
+				placeholder="Digite sua rua" class="form-control">
+		</div>
+
+			<div class="form-group">
+				<label for="numero">Número da residência</label>
+				<input type="text" name="numero" id="numero" 
+				placeholder="Digite o número da residência" class="form-control">
+		</div>
+
+			<div class="form-group">
+				<label for="complemento">Complemento</label>
+				<input type="text" name="complemento" id="complemento" 
+				placeholder="Digite o complemento do endereço" class="form-control">
+		</div>
+
+		<div class="form-group">
+			<label for="referencia">Ponto de Referência</label>
+			<input type="text" name="referencia" id="referencia" 
+			placeholder="Digite o ponto de referência próximo de sua residência "class="form-control">
+	</div>
+
+	<div class="form-group">
+		<label for="bairro">Bairro</label>
+		<input type="text" name="bairro" id="bairro" 
+		placeholder="Digite seu bairro" class="form-control">
+</div>
+
+				<div class="form-group">
+					<label for="pedido">Seu Pedido</label>
+					<textarea name="pedido" id="pedido" class="form-control"
+					placeholder="Digite o seu  pedido" cols="30" rows="6"></textarea>
+			</div>
+
+			<div class="form-group">
+			<input type="submit" value="Enviar" class="btn btn-block btn-go">
+		</div>
+
+					</div>
+
+						
+
+					</form>
 				
+				</div>
+			
 				
 			</div>
 			

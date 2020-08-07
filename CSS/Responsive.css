@@ -8,11 +8,19 @@
   .bg-yellow{
     margin-top: 0;
   }
+
+  img.logo{
+    width: 10rem;
+  }
+  
 }
 
 /* SMARTPHONE/TABLET */
 @media (min-width: 768px) {
-
+  img.logo{
+    width: 10rem;
+  }
+  
 
 }
 /* SMALL SCREENS */

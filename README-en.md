@@ -40,8 +40,8 @@ Conclusion project of the HTML / CSS course at <a href="https://navedoconhecimen
 
 • To view and interact with the Site, access <a href="https://pizzaria-nave.vercel.app/Index.html">Pizzaria da Nave </a>
 <p align="center">
-<img src="./ASSETS/Pizzaplace.png" width="500">
-<img src="./ASSETS/Cardapio.png" width=500>
+<img src="./ASSETS/Pizzaplace.png" width="700">
+<img src="./ASSETS/Cardapio.png" width=700>
 
 <h2  id="requesitos">💻 Prerequisites</h2>
 <p>
